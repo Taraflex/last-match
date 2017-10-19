@@ -1,0 +1,24 @@
+{
+  "name": "last-match",
+  "version": "0.0.1",
+  "description": "Return last value from String.match(RegExp) or null",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taraflex/last-match.git"
+  },
+  "keywords": [
+    "regular-expressions",
+    "match",
+    "string"
+  ],
+  "author": "taraflex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Taraflex/last-match/issues"
+  },
+  "homepage": "https://github.com/Taraflex/last-match"
+}
