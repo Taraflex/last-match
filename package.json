@@ -1,6 +1,6 @@
 {
   "name": "last-match",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Return last value from String.match(RegExp) or null",
   "main": "index.js",
   "scripts": {
