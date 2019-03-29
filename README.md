@@ -11,6 +11,6 @@ npm install last-match --save
 ## Usage
 
 ```js
-const lastMatch = require('last-match');
+import lastMatch from 'last-match';
 console.log(lastMatch('hello world', /o\s*(\w+)/i)); //Output -> world
 ```

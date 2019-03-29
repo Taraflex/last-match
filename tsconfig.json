@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "alwaysStrict": true,
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "target": "es6",
+        "sourceMap": false,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "removeComments": true,
+        "strictBindCallApply": true,
+        "declaration": true,
+        "lib": [
+            "es6"
+        ]
+    },
+    "files": [
+        "index.ts"
+    ]
+}
